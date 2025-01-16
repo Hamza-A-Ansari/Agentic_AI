@@ -69,5 +69,7 @@ This repository contains the following examples of AI Agents:
    - Multi-modal agents capable of processing text, images, and videos.
    - Deployment-ready solutions for production environments.
 
+---
+
 ## Contributions
 Contributions are welcome! Feel free to fork this repository and submit pull requests to add new agents or improve existing implementations.
